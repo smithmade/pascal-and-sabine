@@ -1,20 +1,4 @@
 <!DOCTYPE html>
-
-<!--
-
-MADE BY
-                                                                     
-   _|_|_|      _|      _|      _|_|_|      _|_|_|_|_|      _|    _|  
- _|            _|_|  _|_|        _|            _|          _|    _|  
-   _|_|        _|  _|  _|        _|            _|          _|_|_|_|  
-       _|      _|      _|        _|            _|          _|    _|  
- _|_|_|        _|      _|      _|_|_|          _|          _|    _|  
-                                                                     
-                                                        ASBURY PARK                 
-
--->
-
-
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
@@ -51,6 +35,15 @@ MADE BY
                             <a href="gallery.php"><img src="images/gallery-dark-green.svg"></a>
                         </div>
                     </div>
+
+                <div class="sub-nav">
+                    <div>
+                        <a class="active" href="overview.php">overview</a> 
+                    </div>
+                    <div>
+                        <a href="questions.php">questions</a>
+                    </div>
+                </div>
 
                 <div class="overview-content">
                     <div class="overview-image">

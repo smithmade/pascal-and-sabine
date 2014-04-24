@@ -43,7 +43,7 @@
                             Our wine list is a curated representation of European bottles that showcase our taste for 
                             what lies off the beaten path. With our main focus on France’s diverse regions, we are inspired 
                             by wines that compliment our style of cooking and dining here at Pascal &amp; Sabine. Our list is 
-                            always growing and will continue to change as we hone our palate and meet new vintners.
+                            always growing and will continue to change as we hone our palate and meet new&nbsp;vintners.
                         </p>
 
                         <a class="wine-pdf" href="pascal-wine-list.pdf">view our wine list</a>
@@ -52,7 +52,7 @@
                     <div class="happy-hour">
                         <img src="images/happy-hour.svg">
                         <p class="specials">
-                            A SELECT BOTTLE OF RED OR WHITE WINE $25&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;PINNACLE DRINKS $6
+                            A SELECT BOTTLE OF RED OR WHITE WINE $25<span class="spacing"></span>|<span class="spacing"></span>PINNACLE&nbsp;DRINKS&nbsp;$6
                         </p>
                         <p class="hours">
                             monday – friday&nbsp;&nbsp;&nbsp;5pm – 7pm
@@ -103,10 +103,10 @@
                             </section>
 
                         </div>
-                        <div class="border">
+                        <div class="border beer">
                             &nbsp;
                         </div>
-                        <div class="col2 no-top">
+                        <div class="col2 no-top beer-col">
                             <div class="heading">beer</div>
                             <section>
                                 <p>
@@ -179,12 +179,12 @@
                                 <p><span class="title no-description">knob creek</span> <span class="price">9</span></p>
                                 <p><span class="title no-description">booker’s</span> <span class="price">12</span></p>
                                 <p><span class="title no-description">hudson baby bourbon</span> <span class="price">20</span></p>
-                                <p><span class="title no-description">hudson 4 grain bourbon</span> <span class="price">23</span></p>
+                                <p><span class="title no-description">hudson 4 grain&nbsp;bourbon</span> <span class="price">23</span></p>
                                 <p><span class="title no-description">mckenzie bourbon</span> <span class="price">8</span></p>
                                 <p><span class="title no-description">bulleit</span> <span class="price">8</span></p>
-                                <p><span class="title no-description">basil hayden’s 8yr</span> <span class="price">9</span></p>
+                                <p><span class="title no-description">basil hayden’s&nbsp;8yr</span> <span class="price">9</span></p>
                                 <p><span class="title no-description">angel’s envy</span> <span class="price">9</span></p>
-                                <p><span class="title no-description">ridgemont reserve 1792</span> <span class="price">7</span></p>
+                                <p><span class="title no-description">ridgemont reserve&nbsp;1792</span> <span class="price">7</span></p>
                                 <p><span class="title no-description">woodford reserve</span> <span class="price">12</span></p>
                                 <p><span class="title no-description">widow jane</span> <span class="price">14</span></p>
 
@@ -196,7 +196,7 @@
                             &nbsp;
                         </div>
 
-                        <div class="col2 mobile-no-top">
+                        <div class="col2 mobile-no-top scotch">
                             <div class="heading">single malt scotch</div>
 
                             <section>
@@ -210,11 +210,11 @@
                                 <p><span class="title no-description">aberlour 12 yr</span> <span class="price">15</span></p>
                                 <p><span class="title no-description">aberlour 18 yr</span> <span class="price">19</span></p>
                                 <p><span class="title no-description">balvinie doublewood</span> <span class="price">15</span></p>
-                                <p><span class="title no-description">balvinie single barrel</span> <span class="price">26</span></p>
+                                <p><span class="title no-description">balvinie single&nbsp;barrel</span> <span class="price">26</span></p>
                                 <p><span class="title no-description">laphraig 10 yr</span> <span class="price">14</span></p>
-                                <p><span class="title no-description">glenmorangie 10 yr</span> <span class="price">11</span></p>
-                                <p><span class="title no-description">aberfeldy 21 yr</span> <span class="price">40</span></p>
-                                <p><span class="title no-description">lagavulin 16 yr</span> <span class="price">23</span></p>
+                                <p><span class="title no-description">glenmorangie 10&nbsp;yr</span> <span class="price">11</span></p>
+                                <p><span class="title no-description">aberfeldy 21&nbsp;yr</span> <span class="price">40</span></p>
+                                <p><span class="title no-description">lagavulin 16&nbsp;yr</span> <span class="price">23</span></p>
                                 <p><span class="title no-description">oban 18 yr</span> <span class="price">35</span></p>
                                 <p><span class="title no-description">scapa</span> <span class="price">21</span></p>
 
@@ -228,11 +228,11 @@
                             <section>
 
                                 <p><span class="title no-description">old overholt</span> <span class="price">6</span></p>
-                                <p><span class="title no-description">hudson manhattan rye</span> <span class="price">23</span></p>
+                                <p><span class="title no-description">hudson manhattan&nbsp;rye</span> <span class="price">23</span></p>
                                 <p><span class="title no-description">bulleit rye</span> <span class="price">8</span></p>
-                                <p><span class="title no-description">hudson ny clear corn whiskey</span> <span class="price">10</span></p>
-                                <p><span class="title no-description">jack daniels unaged clear rye</span> <span class="price">10</span></p>
-                                <p><span class="title no-description">bastille blended whiskey (france)</span> <span class="price">8</span></p>
+                                <p><span class="title no-description">hudson ny clear corn&nbsp;whiskey</span> <span class="price">10</span></p>
+                                <p><span class="title no-description">jack daniels unaged clear&nbsp;rye</span> <span class="price">10</span></p>
+                                <p><span class="title no-description">bastille blended whiskey&nbsp;(france)</span> <span class="price">8</span></p>
                                 <p><span class="title no-description">cutty sark prohibition</span> <span class="price">9</span></p>
 
                             </section>
@@ -241,13 +241,13 @@
 
                             <section>
 
-                                <p><span class="title no-description">larressingle v.s.o.p.</span> <span class="price">13</span></p>
-                                <p><span class="title no-description">larressingle x.o.</span> <span class="price">20</span></p>
-                                <p><span class="title no-description">cles des ducs v.s.o.p.</span> <span class="price">10</span></p>
-                                <p><span class="title no-description">cles des ducs napolean</span> <span class="price">15</span></p>
-                                <p><span class="title no-description">cerbois v.s.o.p.</span> <span class="price">13</span></p>
+                                <p><span class="title no-description">larressingle&nbsp;v.s.o.p.</span> <span class="price">13</span></p>
+                                <p><span class="title no-description">larressingle&nbsp;x.o.</span> <span class="price">20</span></p>
+                                <p><span class="title no-description">cles des ducs&nbsp;v.s.o.p.</span> <span class="price">10</span></p>
+                                <p><span class="title no-description">cles des ducs&nbsp;napolean</span> <span class="price">15</span></p>
+                                <p><span class="title no-description">cerbois&nbsp;v.s.o.p.</span> <span class="price">13</span></p>
                                 <p><span class="title no-description">cerbois x.o.</span> <span class="price">19</span></p>
-                                <p><span class="title no-description">chateau busca xo</span> <span class="price">21</span></p>
+                                <p><span class="title no-description">chateau busca&nbsp;xo</span> <span class="price">21</span></p>
 
                             </section>
 
@@ -257,7 +257,7 @@
                             &nbsp;
                         </div>
 
-                        <div class="col2 mobile-no-top">
+                        <div class="col2 mobile-no-top cognac">
                             <div class="heading">cognac</div>
 
                             <section>
@@ -276,7 +276,7 @@
 
                             <section>
 
-                                <p><span class="title no-description">daron calvados 100% pays d’auge</span> <span class="price">11</span></p>
+                                <p><span class="title no-description">daron calvados 100% pays&nbsp;d’auge</span> <span class="price">11</span></p>
                                 <p><span class="title no-description">coquerel calvados</span> <span class="price">8</span></p>
     
                                 <div class="additional-header">spanish brandy</div>
@@ -291,7 +291,7 @@
 
                                 <p><span class="title no-description">fonseca bin 27 porto</span> <span class="price">7</span></p>
                                 <p><span class="title no-description">fonseca 10 yr porto</span> <span class="price">8</span></p>
-                                <p><span class="title no-description">new york malmsey maderia 1996</span> <span class="price">11</span></p>
+                                <p><span class="title no-description">new york malmsey maderia&nbsp;1996</span> <span class="price">11</span></p>
 
                             </section>
 
@@ -321,6 +321,14 @@
 
             jQuery('.arrow').click(function() { 
                 jQuery('.dropdown').toggleClass("block");         
+            });
+        </script>
+
+        <script type="text/javascript">
+            $( document ).ready(function() {
+              $(".beer").css('height',$(".beer-col").height());
+              $(".second-border").css('height',$(".scotch").height());
+              $(".third-border").css('height',$(".cognac").height());
             });
         </script>
 

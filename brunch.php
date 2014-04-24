@@ -274,5 +274,11 @@ MADE BY
             });
         </script>
 
+        <script type="text/javascript">
+            $( document ).ready(function() {
+              $(".border").css('height',$(".col1").height());
+            });
+        </script>
+
     </body>
 </html>

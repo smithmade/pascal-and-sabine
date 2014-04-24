@@ -191,18 +191,14 @@
                                 <p>
                                     <span class="title">espresso</span> <span class="price">3</span>
                                 </p> 
+                                </div>
+                                <div class="fifty-fifty">    
                                 <p>
                                     <span class="title">americano</span> <span class="price">3</span>
                                 </p> 
-                                </div>
-                                <div class="fifty-fifty">                           
                                 <p>
                                     <span class="title">teas</span> <span class="price">3</span>
                                     <span class="description">selection of fine&nbsp;teas</span>
-                                </p> 
-                                <p>
-                                    <span class="title">hot chocolate duo</span> <span class="price">8</span>
-                                    <span class="description">traditional french hot chocolate, caramelized cinnamon with&nbsp;Madeleines</span>
                                 </p> 
                                 </div>
                             </section>

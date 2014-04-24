@@ -54,7 +54,7 @@
                     </div>
 
                     <div class="items">
-                        <div class="col2">
+                        <div class="col2 hors">
                             <div class="heading">HORS D’OEUVRES</div>
                             <section>
                                 <p>
@@ -132,7 +132,7 @@
                                 <p>
                                     <img src="images/cheese-plate.svg" alt="Cheese Plate">
                                 </p> 
-                                <div class="heading">CHARCUTERIE</div>
+                                <div class="heading charcuterie">CHARCUTERIE</div>
                                 <p class="sub-heading">
                                         traditional accompaniments
                                 </p>
@@ -156,7 +156,7 @@
                         <div class="border border-plats">
                             &nbsp;
                         </div>
-                        <div class="col2">
+                        <div class="col2 entrees">
                             <img class="entrees-header" src="images/entrees.png">
                             <section>
                                 <p>
@@ -177,7 +177,7 @@
                                 </p>
                                 <p>
                                     <span class="title">steak au poivre</span> <span class="price">28</span>
-                                    <span class="description">10oz. flat iron steak, green peppercorn cream sauce,&nbsp;frites</span>                                    
+                                    <span class="description">10 oz. flat iron steak, green peppercorn cream sauce,&nbsp;frites</span>                                    
                                 </p>
                                 <p>
                                     <span class="title">skate</span> <span class="price">18</span>
@@ -333,6 +333,13 @@
 
             jQuery('.arrow').click(function() { 
                 jQuery('.dropdown').toggleClass("block");         
+            });
+        </script>
+
+        <script type="text/javascript">
+            $( document ).ready(function() {
+              $(".border-plats").css('height',$(".entrees").height());
+              $(".border-hors").css('height',$(".hors").height());
             });
         </script>
 
