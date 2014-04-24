@@ -125,6 +125,7 @@ nav {
     padding-bottom: 2.5rem;
     width: 80%;
     padding-left: 1%;
+    padding-left: 5%;
     text-align: center;
     max-width: 960px;
     box-sizing: border-box;
@@ -751,6 +752,7 @@ section.open {
     max-width: 960px;
     margin: 0 auto;
     padding-top: 60px;
+    border-top: 4px double;
 }
 
 .overview-content img {
@@ -807,7 +809,8 @@ section.open {
 }
 
 .questions .sub-nav div:last-of-type {
-    border: none;
+    border-right: none;
+    border-left: 1px solid #aac0b9;
 }
 
 .questions-content {
@@ -837,14 +840,24 @@ section.open {
 }
 
 .questions-copy strong {
-    font-family: 'MrsEavesSmallCapsRoman';
+    font-family: 'TradeGothic';
     margin-bottom: 0.7rem;
     display: block;
     font-weight: normal;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 1px;
 }
 
 .questions-copy p {
     margin-bottom: 3rem;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.accent-fix {
+    font-family: times;
+    font-size: 12px;
 }
 
 .about .col1, .about .col2 {
@@ -1262,8 +1275,8 @@ img.que {
 }
 
 .caviar {
-    width: 70%;
-    margin-top: 6.4rem;
+    width: 100%;
+    margin-top: 4.4rem;
 }
 
 .plats {
@@ -1276,17 +1289,22 @@ img.que {
 }
 
 .border.border-plats {
-    height: 68.7rem;
+   /* height: 68.7rem; */
 }
 
 .border.border-hors {
-    height: 31.4rem;
+   /* height: 31.4rem; */
 }
 
 .entrees-header {
     width: 90%;
     margin-top: 0.6rem;
     margin-bottom: 0.6rem;
+}
+
+.heading.charcuterie {
+    padding-top: 0.8rem !important;
+    border-top: 1px solid #000 !important;
 }
 
 /* Breakfast 
@@ -1684,6 +1702,10 @@ p.sub-heading-fg {
     font-size: 1.1rem;
 }
 
+.spacing {
+    width: 1rem;
+    display: inline-block;
+}
 
 /* Brunch 
 ======================= */
@@ -1811,10 +1833,10 @@ div.OTButton, div#OTButton {
 @font-face {
     font-family: 'MrsEavesSmartLigRomanItalic';
     src: url('fonts/mrseavesitalic.eot');
-    src: url('fonts/mrseavesitalic.eot') format('embedded-opentype'),
+    src: url('fonts/mrseavesitalic.svg#MrsEavesSmartLigRomanItalic') format('svg'), 
          url('fonts/mrseavesitalic.woff') format('woff'),
          url('fonts/mrseavesitalic.ttf') format('truetype'),
-         url('fonts/mrseavesitalic.svg#MrsEavesSmartLigRomanItalic') format('svg');
+         url('fonts/mrseavesitalic.eot') format('embedded-opentype');
 }
 
 /*
@@ -1988,6 +2010,13 @@ div.clear div {
 */ 
 }
 
+@media only screen and (min-width: 840px) and (max-width: 948px) {
+    nav img {
+        max-width: 26%;
+    }
+
+}
+
 
 @media only screen and (min-width: 768px) and (max-width: 840px) {
     nav img {
@@ -2005,6 +2034,10 @@ div.clear div {
 
     a#OT_Find_a_Table:link, a#OT_Find_a_Table:visited, a#OT_Find_a_Table:hover, a#OT_Find_a_Table:active {
         font-size: 12px;
+    }
+    
+    img.que {
+        margin-top: -1rem;
     }
 
 }
@@ -2277,7 +2310,7 @@ div.clear div {
         border-top: 1px solid #aac0b9;
     }
 
-    .col1, .col2 {
+    .about .col1, .about .col2 {
         width: 100%;
         margin-left: 0;
     }
@@ -2299,6 +2332,10 @@ div.clear div {
 
     .questions .sub-nav {
         border-top: 1px solid #aac0b9;
+    }
+
+    img.que {
+        margin-top: 0;
     }
 
 
@@ -2629,7 +2666,7 @@ div.clear div {
     }
 
     .caviar {
-        width: 70%;
+        width: 100%;
         margin-top: 2.4rem;
     }
 
